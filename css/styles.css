@@ -4,7 +4,7 @@ body {
 }
 
 hr {
-  border-color: #bfbfbf;
+  border-color: #40352C;
   border-style: none;
   border-top-style: dotted;
   border-width: 5px;
@@ -18,4 +18,19 @@ h1 {
 
 h3 {
   color: #736963;
+}
+
+a{
+    text-decoration: none;
+    font-weight: bold;
+    color: #2c251e;
+}
+
+a:visited{
+    text-decoration: none;
+    color: #2c251e;
+}
+
+a:hover{
+    text-decoration: underline;
 }
