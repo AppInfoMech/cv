@@ -1,0 +1,21 @@
+body {
+  background-color: #a6a3a1;
+  font-family: Futura, Trebuchet MS, Arial, Helvetica, sans-serif;
+}
+
+hr {
+  border-color: #bfbfbf;
+  border-style: none;
+  border-top-style: dotted;
+  border-width: 5px;
+  height: 1px;
+  width: 20%;
+}
+
+h1 {
+  color: #0d0000;
+}
+
+h3 {
+  color: #736963;
+}
